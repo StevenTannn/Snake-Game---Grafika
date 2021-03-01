@@ -1,0 +1,27 @@
+Salam Pak,
+
+Library Glut:
+Untuk library glutnya ini saya memakai Freeglut,
+
+Yang akan saya sertakan beserta file cpp di file zip tersebut.
+
+Saya memakai Dev C++ untuk membuild program ini dengan linker sebagai berikut:
+-lfreeglut
+-lopengl32
+-lglu32
+
+Tutorial yang saya pakai untuk install glut :
+http://pradsource.blogspot.com/2018/05/cara-install-glut.html
+
+File library freegult:
+https://www.transmissionzero.co.uk/files/software/development/GLUT/freeglut-MinGW-3.0.0-1.mp.zip
+
+Game :
+Game ini terdiri dari 3 Level yang berbeda yaitu Easy, Medium, Hard
+Untuk membedakan level tersebut kami menset FPS yang berbeda sehingga ketika level lebih sulit maka FPS nya akan lebih cepat sehingga kecepatan
+ularnya akan menjadi lebih cepat dari level sebelumnya (tentunya ketika ularnya memakan buah maka fps nya +1 sehingga permainan-nya semakin
+menantang)
+Lalu level yang makin tinggi, warna grid yang tercentak akan lebih gelap sehingga pemandangan akan sedikit susah sehingga permainan menjadi
+lebih sulit.
+
+Terima Kasih Pak.
